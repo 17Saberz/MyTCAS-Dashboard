@@ -70,7 +70,6 @@ streamlit run app.py
 - Tuition fee shown in this dashboard represents the **average per semester**, calculated by dividing the total cost of the entire program by the number of semesters in the curriculum.
 
 - All course data shown is publicly scraped and not altered from its original source.
-- 
 - This project is intended for educational and analytical purposes only.
 
 ---
